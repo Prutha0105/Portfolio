@@ -14,6 +14,21 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CSS", "CSS", "{09C84C2A-B1F
 		..\..\..\Downloads\Pillar-BS5-v1.0\Pillar-BS5-v1.0\assets\css\pillar-6.css = ..\..\..\Downloads\Pillar-BS5-v1.0\Pillar-BS5-v1.0\assets\css\pillar-6.css
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "fontawesome", "fontawesome", "{47450829-B00A-44DE-89F6-595354779570}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\Downloads\Pillar-BS5-v1.0\Pillar-BS5-v1.0\assets\fontawesome\attribution.js = ..\..\..\Downloads\Pillar-BS5-v1.0\Pillar-BS5-v1.0\assets\fontawesome\attribution.js
+		..\..\..\Downloads\Pillar-BS5-v1.0\Pillar-BS5-v1.0\assets\fontawesome\LICENSE.txt = ..\..\..\Downloads\Pillar-BS5-v1.0\Pillar-BS5-v1.0\assets\fontawesome\LICENSE.txt
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "images", "images", "{1719162A-8193-4E75-A9B9-3B3C4D9FC148}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "js", "js", "{CEEF1395-C10E-4710-B90C-51BB9F65A583}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{0B68B5FF-1E3F-41DD-9097-02166F1D93ED}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\Downloads\Pillar-BS5-v1.0\Pillar-BS5-v1.0\index.html = ..\..\..\Downloads\Pillar-BS5-v1.0\Pillar-BS5-v1.0\index.html
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
